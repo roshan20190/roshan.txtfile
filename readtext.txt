@@ -1,0 +1,5 @@
+RegNo	Roll	Name
+1	12	Karan
+2	22	Raman
+3	62	Viren
+4	88	Milan
